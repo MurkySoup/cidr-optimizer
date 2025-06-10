@@ -1,5 +1,5 @@
-# CIDR Ooptimizer
-Accepts an input file of CIDR's, one per line and outputs an optimally collapsed list
+# CIDR Optimizer
+Accepts an input file of CIDR's, one per line, and outputs an optimally collapsed list
 
 # Prerequisites
 
