@@ -33,6 +33,8 @@ Sample output:
 192.168.1.0/25
 ```
 
+Note: A given input list can be either IPv4 or IPv6, but not a mixed set.
+
 # Signalling
 
 Standard *nix-style messaging and exit codes apply:
